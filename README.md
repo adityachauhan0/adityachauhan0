@@ -4,16 +4,20 @@
 
 I'm an engineering student, forging algorithms and projects from the ground up, with the pure intention of doing what excites. All my projects were built by me from ground up, in the adventure of trying something new. Most of my work include interesting algorithms to tricky puzzles I find on internet, and ideas implemented into projects that caught my eye ✨👀.
 
-   <p align="left">
-      <a href="https://www.linkedin.com/in/adityamc/">
-         <img alt="My Page" title="Connect with me on linkedin 👉 👈" src="https://i.imgur.com/eZlOFom.png"/></a> 
-      <a href="https://adityachauhan0.github.io/portfolio/">
-         <img alt="if you prefer a summarized version of my github page" title="My Portfolio Website" src="https://img.icons8.com/clouds/100/domain.png"/></a> 
-      <a href="https://codeforces.com/profile/roronua">
-         <img alt="codeforces page" title="Add me on codeforces" src="https://i.imgur.com/Wng2Sxl.png"/></a>
-      <a href="https://www.codechef.com/users/roronua">
-         <img alt="codechef page" title="My codechef profile" src="https://i.imgur.com/qERKlCR.png"/></a>
-   </p>
+<p align="left">
+   <a href="https://www.linkedin.com/in/adityamc/">
+      <img alt="My Page" title="Connect with me on LinkedIn 👉 👈" src="https://i.imgur.com/eZlOFom.png" width="30" height="30"/>
+   </a> 
+   <a href="https://adityachauhan0.github.io/portfolio/">
+      <img alt="if you prefer a summarized version of my GitHub page" title="My Portfolio Website" src="https://img.icons8.com/clouds/100/domain.png" width="30" height="30"/>
+   </a> 
+   <a href="https://codeforces.com/profile/roronua">
+      <img alt="codeforces page" title="Add me on Codeforces" src="https://i.imgur.com/Wng2Sxl.png" width="30" height="30"/>
+   </a>
+   <a href="https://www.codechef.com/users/roronua">
+      <img alt="codechef page" title="My Codechef profile" src="https://i.imgur.com/qERKlCR.png" width="30" height="30"/>
+   </a>
+</p>
 
 ---
 
