@@ -5,16 +5,19 @@
 I'm an engineering student, forging algorithms and projects from the ground up, with the pure intention of doing what excites. All my projects were built by me from ground up, in the adventure of trying something new. Most of my work include interesting algorithms to tricky puzzles I find on internet, and ideas implemented into projects that caught my eye ✨👀.
 
    <a href="https://www.linkedin.com/in/adityamc/">
-      Connect With Me on Linkedin \n
+   Linkedin 
    </a> 
-      <a href="https://adityachauhan0.github.io/portfolio/">
-         Summarized Version Of My Git page \n
+   | Link to My 
+   <a href="https://adityachauhan0.github.io/portfolio/">
+         Website 
    </a> 
+   | 1450 
    <a href="https://codeforces.com/profile/roronua">
-      1450 @Codeforces \n
+      @Codeforces
    </a>
+   | 1745 
    <a href="https://www.codechef.com/users/roronua">
-      1745 @Codechef \n
+      @Codechef 
    </a>
 
 ---
