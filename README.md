@@ -7,15 +7,15 @@ I'm an engineering student, forging algorithms and projects from the ground up, 
    <a href="https://www.linkedin.com/in/adityamc/">
    Linkedin 
    </a> 
-   | Link to My 
+    | Link to My 
    <a href="https://adityachauhan0.github.io/portfolio/">
          Website 
    </a> 
-   | 1450 
-   <a href="https://codeforces.com/profile/roronua">
+    | 1450 
+   <a href="https://codeforces.com/profile/stuffysprout">
       @Codeforces
    </a>
-   | 1745 
+    | 1745 
    <a href="https://www.codechef.com/users/roronua">
       @Codechef 
    </a>
