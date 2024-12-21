@@ -19,7 +19,7 @@ I'm an engineering student, forging algorithms and projects from the ground up, 
    <a href="https://www.codechef.com/users/roronua">
       @Codechef 
    </a>
-   
+   |
    <a href="https://portfol-adityac.netlify.app/">
       @3D portfolio 
    </a>
