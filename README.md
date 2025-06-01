@@ -15,8 +15,8 @@ I'm an engineering student, forging algorithms and projects from the ground up, 
    <a href="https://github.com/adityachauhan0/ResumePDF/blob/main/Resume_Main.pdf">
          Resume 
    </a>
-    | 1450 
-   <a href="https://codeforces.com/profile/stuffysprout">
+    | 1432 
+   <a href="https://codeforces.com/profile/hondacity">
       @Codeforces
    </a>
     | 1745 
