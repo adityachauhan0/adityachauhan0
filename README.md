@@ -15,11 +15,11 @@ I'm an engineering student, forging algorithms and projects from the ground up, 
    <a href="https://github.com/adityachauhan0/ResumePDF/blob/main/Resume_Main.pdf">
          Resume 
    </a>
-    | 1432 
+    | 1863 
    <a href="https://codeforces.com/profile/hondacity">
       @Codeforces
    </a>
-    | 1745 
+    | 1823 
    <a href="https://www.codechef.com/users/roronua">
       @Codechef 
    </a>
