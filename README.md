@@ -19,7 +19,7 @@ I'm an engineering student, forging algorithms and projects from the ground up, 
    <a href="https://codeforces.com/profile/hondacity">
       @Codeforces
    </a>
-    | 1823 
+    | 1918 
    <a href="https://www.codechef.com/users/roronua">
       @Codechef 
    </a>
