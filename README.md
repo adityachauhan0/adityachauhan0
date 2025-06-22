@@ -14,15 +14,7 @@ I'm an engineering student, forging algorithms and projects from the ground up, 
    | Link to My 
    <a href="https://github.com/adityachauhan0/ResumePDF/blob/main/Resume_Main.pdf">
          Resume 
-   </a>
-    | 1863 
-   <a href="https://codeforces.com/profile/hondacity">
-      @Codeforces
-   </a>
-    | 1918 
-   <a href="https://www.codechef.com/users/roronua">
-      @Codechef 
-   </a>
+   
    |
    <a href="https://portfol-adityac.netlify.app/">
       @3D portfolio 
