@@ -2,7 +2,7 @@
 
 I build software that runs close to the machine: local AI agents, the systems under them, and tools other agents can call.
 
-[Yuzu](https://adityachauhan0.github.io/yuzu) is what I'm shipping now. [LinkedIn](https://www.linkedin.com/in/adityamc/)
+[Yuzu](https://adityachauhan0.github.io/yuzu) is what I'm shipping now. [X](https://x.com/dragonofllms) · [LinkedIn](https://www.linkedin.com/in/adityamc/)
 
 ## Selected work
 
